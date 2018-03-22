@@ -13,7 +13,7 @@ function draw() {
 	image(img, x, y);
 
   x = x - 1;
-  y = y;
+  y = y + random(-1, 1);
 
   if (x < 0) {
     x = width;
