@@ -1,8 +1,8 @@
 var x, y;
 
 function setup() {
-  createCanvas(500, 500);
-	img = loadImage("superMarioClouds_0.png");
+  createCanvas(700, 700);
+	img = loadImage("puriPuriPrisoner.png");
   x = width;
   y = height / 4;
 }
