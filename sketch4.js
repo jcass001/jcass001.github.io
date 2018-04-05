@@ -3,8 +3,8 @@ function setup() {
   background(219, 176, 35)
 beginShape();
 vertex(50,50);
-vertex(60,60);
-vertex(40,40);
+vertex(40,60);
+vertex(45,55);
 vertex(50,50);
 // etc;
 endShape();
