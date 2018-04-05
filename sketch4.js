@@ -3,9 +3,9 @@ function setup() {
   background(219, 176, 35)
 beginShape();
 vertex(50,50);
-vertex(40,60);
-vertex(45,55);
-vertex(50,50);
+vertex(100,50);
+vertex(100,100);
+vertex(50,100);
 // etc;
 endShape();
 }
