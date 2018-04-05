@@ -1,5 +1,6 @@
 function setup() {
   createCanvas(500, 500);
+  background(19,168,0)
   fill(19,168,0)
   beginShape();
   vertex(100,100);
@@ -12,7 +13,3 @@ function setup() {
   vertex(100,100);
   endShape();
 }
-
-function draw() {
-	background(19,168,0)
-  }
