@@ -17,5 +17,5 @@ function setup() {
 function draw() {
   noStroke()
   fill(83, 84, 86)
-  ellipse(mouseX, mouseY, 25, 25);
+  ellipse(mouseX, mouseY, 80, 80);
   }
